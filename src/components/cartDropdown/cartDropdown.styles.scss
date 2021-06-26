@@ -18,7 +18,14 @@
     overflow: auto;
   }
 
+  .empty-message {
+    font-size: 25px;
+    margin: 50px auto;
+  }
+
   button {
     margin-top: 10px;
+    font-size: 20px;
+    font-weight: lighter;
   }
 }
